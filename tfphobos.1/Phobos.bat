@@ -1,0 +1,1 @@
+doom3.exe +set fs_game tfphobos +set fs_game_base d3xp +seta com_allowconsole 1
